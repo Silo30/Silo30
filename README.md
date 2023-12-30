@@ -1,7 +1,7 @@
 ### Hi there / Olá 👋
 
-![Status no GitHub](https://github-readme-stats.vercel.app/api?username=Silo30&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Silo30&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Status no GitHub](https://github-readme-stats.vercel.app/api?username=Silo30&theme=transparent&bg_color=000&border_color=30fe00&show_icons=true&icon_color=41b883&title_color=41b883&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Silo30&bg_color=000&border_color=30fe00&title_color=41b883&text_color=FFF)
 
 <!--
 **Silo30/Silo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
